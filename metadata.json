@@ -1,0 +1,5 @@
+{
+  "name": "The Reactive Vacuum",
+  "description": "A high-performance WebGL laboratory visualizing Entropic Gravity and Gravitational Lensing based on the 'Information as Geometry' paper.",
+  "requestFramePermissions": []
+}
